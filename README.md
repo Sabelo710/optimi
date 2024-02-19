@@ -17,4 +17,6 @@ npm run server
 ```
 Once the command is done running you should see this on your terminal.
 
-![Terminal Screenshot](https://drive.google.com/drive/u/1/folders/1XBZwYKysaNUJQxX1MgEpxPGBBfl4fWLi))
+![alt text](./screenshots/running_cli.png)
+
+Next you can install the frontend.
