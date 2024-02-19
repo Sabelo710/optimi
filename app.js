@@ -16,6 +16,8 @@ const corsOptions = {
 
 // Enable CORS for all routes
 app.use(cors());
+// server static files from public
+app.use(express.static('public'));
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
